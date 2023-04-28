@@ -1,4 +1,4 @@
-# Sandip Majethiya
+# Sandip Majithiya
 
 # 💫 About Me:
 I'm currently learning Web-devlopment<br>
